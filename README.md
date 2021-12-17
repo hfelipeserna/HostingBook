@@ -1,7 +1,5 @@
 # Certified Tech Dev - Proyecto Integrador
 
-[[_TOC_]]
-
 # HostingBook
 
 HostingBook es una página web diseñada y adaptada para todos los dispositivos, la cual permite a los usuarios reservar alojamientos en diferentes ciudades, con diversas comodidades a disposición de los huéspedes y en la fecha que ellos elijan.
