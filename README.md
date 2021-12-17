@@ -183,7 +183,7 @@ Si bien tuvimos algunos retrasos con funcionalidades de seguridad y problemas en
 
 Para mantener en la rama `main` versiones estables del proyecto decidimos trabajar con el siguiente workflow:
 
-![Workflow gitlab](uploads/2d9b02463d67132ebfe5a76c0edc3bb4/Untitled_Diagram.drawio.png)
+![Workflow gitlab]![image](https://user-images.githubusercontent.com/45428425/146567969-b207992e-21ab-4ed0-a01a-61d3cbe27e9b.png)
 
 * Inicialmente pusheamos a `main` una configuración inicial para comenzar a trabajar
 * Luego creamos la rama `develop`, sobre la cual trabajamos en todos los sprints
@@ -195,11 +195,12 @@ Para mantener en la rama `main` versiones estables del proyecto decidimos trabaj
 
 ## Base de datos
 
-![DER Usuario](uploads/ef03be5a2e47bbd2cd1f994952aa104e/image.png)
+![DER Usuario]![image](https://user-images.githubusercontent.com/45428425/146568012-8bf2e8b6-488f-4123-bfdc-4515e0f27e76.png)
 
-![DER Producto](uploads/d41a9528350571afef499546c412cced/image.png)
+![DER Producto]![image](https://user-images.githubusercontent.com/45428425/146568048-a62c1fca-b34f-4cd6-bed8-4b378d268c94.png)
 
-![DER Usuario con Producto](uploads/7c4e94ab8b7071c68bfba91f67c6d351/image.png)
+![DER Usuario con Producto]![image](https://user-images.githubusercontent.com/45428425/146568102-cb69b211-dcb5-42f3-b36d-9203d4b6e727.png)
+
 
 ## Backend
 
@@ -207,27 +208,33 @@ La documentación completa de la API se puede ver [acá](http://3.133.206.239:80
 
 * Estructura del proyecto
 
-  ![Estructura de paquetes](uploads/ab18816323c5d7918bf56ecc19096ea7/image.png)
+  ![Estructura de paquetes]![image](https://user-images.githubusercontent.com/45428425/146568181-1588271c-131a-48c2-8f4c-012380671081.png)
+
 
 * Entidades
 
-  ![Entidades](uploads/dd85b25d9e19919492c2e39dd84d654f/image.png)
+  ![Entidades]![image](https://user-images.githubusercontent.com/45428425/146568207-d1f854fe-2cd1-43d0-92bc-1284af70dcb5.png)
+
 
 * Repository
 
-  ![Repository](uploads/a32d6c6d622aed4a238f025cf8ccdd2f/image.png)
+  ![Repository]![image](https://user-images.githubusercontent.com/45428425/146568233-1cde9a1f-394d-4e66-aadd-8b5ac7f9d4ef.png)
+
 
 * Service
 
-  ![Service](uploads/9fe1a87b0082ff76bbe105d0218860bb/image.png)
+  ![Service]![image](https://user-images.githubusercontent.com/45428425/146568263-ed003e31-cc8c-444b-b455-8374c6c4a907.png)
+
 
 * Controllers
 
-  ![Controllers](uploads/601dceb8a01cc401789fcf3133149f5a/image.png)
+  ![Controllers]![image](https://user-images.githubusercontent.com/45428425/146568295-8afc0ad0-7641-4b9b-9ab0-775ad4832ff0.png)
+
 
 ## Infraestructura
 
-![image](uploads/394a843ffb8f06868337d06cbc4f1240/image.png)
+![image](https://user-images.githubusercontent.com/45428425/146568313-8c73f31b-45c7-427d-bee3-e497225a0222.png)
+
 
 ## Testing y calidad
 
