@@ -198,12 +198,15 @@ Para mantener en la rama `main` versiones estables del proyecto decidimos trabaj
 ## Base de datos
 
 * DER Usuario
+
 ![image](https://user-images.githubusercontent.com/45428425/146568012-8bf2e8b6-488f-4123-bfdc-4515e0f27e76.png)
 
 * DER Producto
+
 ![image](https://user-images.githubusercontent.com/45428425/146568048-a62c1fca-b34f-4cd6-bed8-4b378d268c94.png)
 
 * DER Usuario con Producto
+
 ![image](https://user-images.githubusercontent.com/45428425/146568102-cb69b211-dcb5-42f3-b36d-9203d4b6e727.png)
 
 
